@@ -16,3 +16,7 @@ enum WorkoutType: String, CaseIterable, Identifiable {
     }
 }
 
+
+
+
+

@@ -67,3 +67,7 @@ The SwiftUI code I created is still valid and ready to use. When you get access 
 2. Build and run immediately
 3. The code is already complete and functional
 
+
+
+
+
